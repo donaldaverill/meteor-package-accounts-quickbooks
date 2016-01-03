@@ -1,6 +1,7 @@
 Package.describe({
   summary: 'Login service for Quickbooks accounts',
   version: '1.0.1',
+  summary: 'Login Services for Quickbooks',
   name: 'fourquet:accounts-quickbooks',
   git: 'https://github.com/fourquet/meteor-package-accounts-quickbooks.git',
   documentation: 'README.md',
