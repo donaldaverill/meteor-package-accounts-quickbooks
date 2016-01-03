@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/fourquet/meteor-package-accounts-quickbooks.svg)](https://travis-ci.org/fourquet/meteor-package-accounts-quickbooks)
 
-Copied and tweaked from [andylash:accounts-quickbooks](https://github.com/andylash/accounts-quickbooks)
+A modified version of [andylash:accounts-quickbooks](https://github.com/andylash/accounts-quickbooks).
 
 Login Services for Quickbooks
 --
