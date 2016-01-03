@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/fourquet/accounts-quickbooks.svg)](https://travis-ci.org/fourquet/accounts-quickbooks)
+[![Build Status](https://travis-ci.org/fourquet/meteor-package-accounts-quickbooks.svg)](https://travis-ci.org/fourquet/meteor-package-accounts-quickbooks)
 
 Copied and tweaked from [andylash:accounts-quickbooks](https://github.com/andylash/accounts-quickbooks)
 
