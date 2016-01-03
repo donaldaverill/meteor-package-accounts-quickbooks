@@ -29,7 +29,7 @@ Package.onUse(function(api) {
 		'client',
 		'server',
 	]);
-	api.use('fourquet:quickbooks', [
+	api.use('fourquet:quickbooks@2.0.0_2', [
 		'client',
 		'server',
 	]);
